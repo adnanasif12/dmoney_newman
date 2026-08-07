@@ -57,3 +57,11 @@ After the run completes, the HTML report will be generated at:
 ```text
 Reports/report.html
 ```
+## Report
+<img width="843" height="839" alt="image" src="https://github.com/user-attachments/assets/07e72e45-393e-4fc9-8bc0-8093a0c5fde2" />
+<img width="865" height="512" alt="image" src="https://github.com/user-attachments/assets/6890cdf5-079a-4b36-860c-850f47992964" />
+<img width="912" height="275" alt="image" src="https://github.com/user-attachments/assets/2b022d2c-192d-4f73-acd3-da005576d597" />
+<img width="950" height="261" alt="image" src="https://github.com/user-attachments/assets/ee1ec672-8acd-4b69-8b19-28e49b8ea599" />
+
+
+
